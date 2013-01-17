@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindsorBTest", "WindsorBTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindsorBTest.Tests", "WindsorBTest.Tests\WindsorBTest.Tests.csproj", "{4FF01E3D-7C24-4EF5-83C1-CDF2745FA3AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindsorBTest.Common", "WindsorBTest.Common\WindsorBTest.Common.csproj", "{55D86EB1-1798-44E0-9DCC-B97531BFBDA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{4FF01E3D-7C24-4EF5-83C1-CDF2745FA3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FF01E3D-7C24-4EF5-83C1-CDF2745FA3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FF01E3D-7C24-4EF5-83C1-CDF2745FA3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D86EB1-1798-44E0-9DCC-B97531BFBDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D86EB1-1798-44E0-9DCC-B97531BFBDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D86EB1-1798-44E0-9DCC-B97531BFBDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D86EB1-1798-44E0-9DCC-B97531BFBDA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

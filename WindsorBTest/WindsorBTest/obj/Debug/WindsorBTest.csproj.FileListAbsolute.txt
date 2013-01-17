@@ -1,0 +1,7 @@
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\WindsorBTest.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\WindsorBTest.pdb
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\EntityFramework.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\EntityFramework.xml
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\obj\Debug\WindsorBTest.csprojResolveAssemblyReference.cache
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\obj\Debug\WindsorBTest.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\obj\Debug\WindsorBTest.pdb
