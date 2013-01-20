@@ -4,3 +4,4 @@ C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Common\
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Common\obj\Debug\WindsorBTest.Common.pdb
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Common\bin\Debug\NLog.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Common\bin\Debug\NLog.xml
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Common\obj\Debug\ResolveAssemblyReference.cache

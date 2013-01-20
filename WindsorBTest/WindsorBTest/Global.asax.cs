@@ -30,6 +30,8 @@ namespace WindsorBTest
 
             cont.Kernel.AddFacility<TypedFactoryFacility>();
 
+            cont.Install(FromAssembly.This());
+
             var controllerFactory = new WindsorControllerFactory(cont.Kernel);
             ControllerBuilder.Current.SetControllerFactory(controllerFactory);
 
