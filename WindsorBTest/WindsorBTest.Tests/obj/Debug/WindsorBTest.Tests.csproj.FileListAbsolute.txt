@@ -7,3 +7,9 @@ C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\o
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\obj\Debug\WindsorBTest.Tests.pdb
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\NLog.config
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\Castle.Windsor.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\Castle.Core.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\Castle.Windsor.xml
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\Castle.Core.xml
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\WindsorBTest.Core.Web.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\WindsorBTest.Core.Web.pdb
