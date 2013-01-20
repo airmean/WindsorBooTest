@@ -12,6 +12,8 @@ C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\b
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\Castle.Core.xml
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\WindsorBTest.Core.Web.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\WindsorBTest.Core.Web.pdb
-C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\obj\Debug\WindsorBTest.Tests.csprojResolveAssemblyReference.cache
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\Castle.Facilities.Logging.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\WindsorBTest.Common.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\WindsorBTest.Common.pdb

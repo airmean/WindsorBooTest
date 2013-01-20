@@ -9,7 +9,9 @@ using WindsorBTest.Models;
 
 namespace WindsorBTest.Controllers
 {
-    public class AccountController : Controller
+    using WindsorBTest.Core.Web.Controllers;
+
+    public class AccountController : BaseController
     {
 
         //

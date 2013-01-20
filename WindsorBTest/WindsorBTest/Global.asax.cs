@@ -7,6 +7,7 @@ using System.Web.Routing;
 
 namespace WindsorBTest
 {
+    using Castle.Facilities.TypedFactory;
     using Castle.Windsor;
     using Castle.Windsor.Installer;
 
@@ -19,14 +20,20 @@ namespace WindsorBTest
     {
         private static IWindsorContainer container;
 
-        private static void BootstrapContainer()
+        protected static IWindsorContainer InitializeServiceLocator()
         {
-            container = new WindsorContainer()
-                .Install(FromAssembly.This());
-            var controllerFactory = new WindsorControllerFactory(container.Kernel);
+            IWindsorContainer cont = new WindsorContainer();
+
+            cont.Kernel.AddFacility<TypedFactoryFacility>();
+
+            var controllerFactory = new WindsorControllerFactory(cont.Kernel);
             ControllerBuilder.Current.SetControllerFactory(controllerFactory);
+
+            // ServiceLocator.SetLocatorProvider(() => new WindsorServiceLocator(cont));
+
+            return cont;
         }
-        
+
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
@@ -35,6 +42,7 @@ namespace WindsorBTest
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
+            routes.IgnoreRoute("{*favicon}", new { favicon = @"(.*/)?favicon.ico(/.*)?" });
 
             routes.MapRoute(
                 "Default", // Route name
@@ -48,10 +56,10 @@ namespace WindsorBTest
         {
             AreaRegistration.RegisterAllAreas();
 
+            container = InitializeServiceLocator();
+
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
-
-            BootstrapContainer();
         }
 
         protected void Application_End()

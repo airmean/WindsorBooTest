@@ -8,12 +8,26 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="8097F33C-175B-4239-8E13-FA65F57A89A9/d:Castle/f:WindsorControllerFactory.cs" caret="182" fromTop="7" />
+      <File id="8097F33C-175B-4239-8E13-FA65F57A89A9/d:Castle/f:WindsorControllerFactory.cs" caret="254" fromTop="9" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/d:Installers/f:ControllerInstaller.cs" caret="456" fromTop="12" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/f:Global.asax.cs" caret="1040" fromTop="18" />
     </RecentFiles>
     <RecentEdits>
       <File id="8097F33C-175B-4239-8E13-FA65F57A89A9/d:Castle/f:WindsorControllerFactory.cs" caret="1002" fromTop="18" />
       <File id="8097F33C-175B-4239-8E13-FA65F57A89A9/d:Castle/f:WindsorControllerFactory.cs" caret="0" fromTop="0" />
       <File id="8097F33C-175B-4239-8E13-FA65F57A89A9/d:Castle/f:WindsorControllerFactory.cs" caret="141" fromTop="5" />
+      <File id="8097F33C-175B-4239-8E13-FA65F57A89A9/d:Castle/f:WindsorControllerFactory.cs" caret="263" fromTop="9" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/d:Installers/f:ControllerInstaller.cs" caret="545" fromTop="18" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/d:Installers/f:ControllerInstaller.cs" caret="0" fromTop="0" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/f:Global.asax.cs" caret="869" fromTop="17" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/f:Global.asax.cs" caret="1720" fromTop="14" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/f:Global.asax.cs" caret="1820" fromTop="12" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/f:Global.asax.cs" caret="1820" fromTop="11" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/f:Global.asax.cs" caret="1720" fromTop="3" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/f:Global.asax.cs" caret="1820" fromTop="8" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/f:Global.asax.cs" caret="524" fromTop="11" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/f:Global.asax.cs" caret="859" fromTop="18" />
+      <File id="8253E56C-D214-4466-B3D8-0A6E3BF4982C/f:Global.asax.cs" caret="1049" fromTop="18" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

@@ -56,6 +56,14 @@
     <Content Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\WindsorBTest.Common\WindsorBTest.Common.csproj">
+      <Project>{55D86EB1-1798-44E0-9DCC-B97531BFBDA6}</Project>
+      <Name>WindsorBTest.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WindsorBTest.Core.Web\WindsorBTest.Core.Web.csproj">
+      <Project>{8097F33C-175B-4239-8E13-FA65F57A89A9}</Project>
+      <Name>WindsorBTest.Core.Web</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WindsorBTest\WindsorBTest.csproj">
       <Project>{8253E56C-D214-4466-B3D8-0A6E3BF4982C}</Project>
       <Name>WindsorBTest</Name>

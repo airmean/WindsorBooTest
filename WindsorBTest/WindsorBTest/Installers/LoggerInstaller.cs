@@ -9,7 +9,7 @@
     {
         public void Install(IWindsorContainer container, IConfigurationStore store)
         {
-            container.AddFacility<LoggingFacility>(f => f.UseLog4Net());
+            container.AddFacility<LoggingFacility>(f => f.UseNLog());
         }
     }
 }
