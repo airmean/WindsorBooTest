@@ -18,4 +18,9 @@ C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Win
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Castle.Facilities.Logging.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Castle.Services.Logging.NLogIntegration.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Castle.Facilities.Logging.xml
-C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\obj\Debug\WindsorBTest.csprojResolveAssemblyReference.cache
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\CommonServiceLocator.WindsorAdapter.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\CommonServiceLocator.WindsorAdapter.pdb
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Microsoft.Practices.ServiceLocation.xml

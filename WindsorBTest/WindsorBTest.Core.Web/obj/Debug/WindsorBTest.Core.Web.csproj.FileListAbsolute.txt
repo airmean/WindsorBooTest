@@ -11,4 +11,3 @@ C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.We
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\NLog.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\Castle.Facilities.Logging.xml
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\NLog.xml
-C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\obj\Debug\ResolveAssemblyReference.cache

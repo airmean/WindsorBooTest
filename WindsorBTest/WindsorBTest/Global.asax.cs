@@ -11,6 +11,10 @@ namespace WindsorBTest
     using Castle.Windsor;
     using Castle.Windsor.Installer;
 
+    using CommonServiceLocator.WindsorAdapter;
+
+    using Microsoft.Practices.ServiceLocation;
+
     using WindsorBTest.Core.Web.Castle;
 
     // Note: For instructions on enabling IIS6 or IIS7 classic mode, 
@@ -29,7 +33,7 @@ namespace WindsorBTest
             var controllerFactory = new WindsorControllerFactory(cont.Kernel);
             ControllerBuilder.Current.SetControllerFactory(controllerFactory);
 
-            // ServiceLocator.SetLocatorProvider(() => new WindsorServiceLocator(cont));
+            ServiceLocator.SetLocatorProvider(() => new WindsorServiceLocator(cont));
 
             return cont;
         }
