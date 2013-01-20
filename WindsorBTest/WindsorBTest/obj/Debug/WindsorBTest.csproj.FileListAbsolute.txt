@@ -8,3 +8,7 @@ C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\obj\Deb
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\NLog.config
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\NLog.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\NLog.xml
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Castle.Core.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Castle.Windsor.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Castle.Core.xml
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Castle.Windsor.xml
