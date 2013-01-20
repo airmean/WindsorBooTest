@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="8253E56C-D214-4466-B3D8-0A6E3BF4982C" ModuleId="WindsorBTest" />
+  <Module PersistentId="8097F33C-175B-4239-8E13-FA65F57A89A9" ModuleId="WindsorBTest.Core.Web" />
 </Modules>

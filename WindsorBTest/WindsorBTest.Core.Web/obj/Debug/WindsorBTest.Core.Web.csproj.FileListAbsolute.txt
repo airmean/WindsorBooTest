@@ -4,6 +4,11 @@ C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.We
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\Castle.Windsor.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\Castle.Core.xml
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\Castle.Windsor.xml
-C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\obj\Debug\WindsorBTest.Core.Web.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\obj\Debug\WindsorBTest.Core.Web.pdb
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\Castle.Services.Logging.NLogIntegration.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\NLog.dll
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\bin\Debug\NLog.xml
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Core.Web\obj\Debug\WindsorBTest.Core.Web.csprojResolveAssemblyReference.cache
