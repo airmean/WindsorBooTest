@@ -3,7 +3,7 @@ C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\b
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\WindsorBTest.Tests.pdb
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\WindsorBTest.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\WindsorBTest.pdb
-C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\obj\Debug\WindsorBTest.Tests.csprojResolveAssemblyReference.cache
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\obj\Debug\WindsorBTest.Tests.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\obj\Debug\WindsorBTest.Tests.pdb
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\bin\Debug\NLog.config
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest.Tests\obj\Debug\ResolveAssemblyReference.cache

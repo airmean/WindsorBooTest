@@ -2,7 +2,6 @@ C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Win
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\WindsorBTest.pdb
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\EntityFramework.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\EntityFramework.xml
-C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\obj\Debug\WindsorBTest.csprojResolveAssemblyReference.cache
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\obj\Debug\WindsorBTest.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\obj\Debug\WindsorBTest.pdb
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\NLog.config
@@ -12,3 +11,4 @@ C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Cas
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Castle.Windsor.dll
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Castle.Core.xml
 C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\bin\Castle.Windsor.xml
+C:\Users\miner\Documents\GitHub\WindsorBooTest\WindsorBTest\WindsorBTest\obj\Debug\ResolveAssemblyReference.cache

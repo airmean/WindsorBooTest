@@ -1,0 +1,30 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8097F33C-175B-4239-8E13-FA65F57A89A9/d:Castle/f:WindsorControllerFactory.cs" caret="182" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8097F33C-175B-4239-8E13-FA65F57A89A9/d:Castle/f:WindsorControllerFactory.cs" caret="1002" fromTop="18" />
+      <File id="8097F33C-175B-4239-8E13-FA65F57A89A9/d:Castle/f:WindsorControllerFactory.cs" caret="0" fromTop="0" />
+      <File id="8097F33C-175B-4239-8E13-FA65F57A89A9/d:Castle/f:WindsorControllerFactory.cs" caret="141" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
